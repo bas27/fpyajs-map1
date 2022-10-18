@@ -1,4 +1,4 @@
-# Домашнее задание к лекции «Контейнеры»
+# Домашнее задание к лекции «Контейнеры» [![Build status](https://ci.appveyor.com/api/projects/status/5815ift73j0ni08c?svg=true)](https://ci.appveyor.com/project/bas27/fpyajs-map1)
 
 **Важно**: каждая задача выполняется в виде отдельного проекта с собственным GitHub репозиторием.
 
